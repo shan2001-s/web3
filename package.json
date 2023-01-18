@@ -8,7 +8,7 @@
   "devDependencies": {
     "hardhat": "^2.10.1"
   },
-  "dependencies": {
+  "dependencies": { 
     "@thirdweb-dev/contracts": "^3"
   }
 }
